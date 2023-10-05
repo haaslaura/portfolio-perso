@@ -62,9 +62,9 @@
 					<img src="./assets/medias/icones/skills-equipe.svg" alt="Il s'agit de deux visages, chacun contenant une icône d'ampoule. Ils sont positionnés l'un en face de l'autre, au sein d'un cercle formé par deux flèches qui indiquent une circulation.">
 					<h3>En équipe</h3>
 					<ul>
-						<li>J’agis avec les autres avec logique et objectivité.</li>
-						<li>Je peux ingérer une masse importante d’information, en identifier les tendances et faire gagner un temps précieux à mes collègues.</li>
-						<li>J’apporte une expertise technique dans le but de faire avancer le projet.</li>
+						<li>J'agis avec les autres avec logique et objectivité.</li>
+						<li>Je peux ingérer une masse importante d'information, en identifier les tendances et faire gagner un temps précieux à mes collègues.</li>
+						<li>J'apporte une expertise technique dans le but de faire avancer le projet.</li>
 					</ul>
 				</section>
 			</section>
